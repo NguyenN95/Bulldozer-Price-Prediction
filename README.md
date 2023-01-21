@@ -1,43 +1,21 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-<!-- [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url] -->
-
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/BabyfaceDeveloper/Bulldozer-Price-Prediction">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Project Name</h3>
+<h3 align="center">Bulldozer Price Prediction</h3>
 
   <p align="center">
-    Project Description
+    Predicts sale price of bulldozers given their characteristics
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/BabyfaceDeveloper/Bulldozer-Price-Prediction"><strong>Explore the notebook »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
   </p>
 </div>
 
@@ -61,8 +39,6 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <!-- <li><a href="#help">Help</a></li> -->
-    <!-- <li><a href="#contributing">Contributing</a></li> -->
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -74,9 +50,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![Product Name Screen Shot][product-screenshot]
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+How well can we predict the future sale price of a bulldozer, given its characteristics and previous examples of how much similar bulldozers have been sold for?
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -90,9 +66,6 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 * [![Numpy][Numpy]][Numpy-url]
 * [![Matplotlib][Matplotlib]][Matplotlib-url]
 * [![Scikit-learn][Scikit-learn]][Scikit-learn-url]
-* [![Tensorflow][Tensorflow]][Tensorflow-url]
-* [![Keras][Keras]][Keras-url]
-* [![PyTorch][PyTorch]][PyTorch-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -111,7 +84,7 @@ Download [Anaconda](https://www.anaconda.com/products/distribution) or [Minicond
 
 1. Clone the repo
    ```bash
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/BabyfaceDeveloper/Bulldozer-Price-Prediction.git
    ```
 2. Open `Search` on Windows or Linux and type `Anaconda` and select the prompt
 3. Create virtual environment and install tools
@@ -146,7 +119,7 @@ Download [Anaconda](https://www.anaconda.com/products/distribution) or [Minicond
 
 - For Visual Studio Code user:
    ```powershell
-   code repo_name
+   code 'Bulldozer-Price-Prediction'
    ```
 - For jupyter notebook user (conda prompt):
    ```sh
@@ -205,7 +178,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Nguyen - [@Nguyen Linkedin](https://www.linkedin.com/in/binhnguyennguyen/)
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/BabyfaceDeveloper/Bulldozer-Price-Prediction](https://github.com/BabyfaceDeveloper/Bulldozer-Price-Prediction)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -228,19 +201,19 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b -->
 
 [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
+[contributors-url]: https://github.com/BabyfaceDeveloper/Bulldozer-Price-Prediction/graphs/contributors
 
 [forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
+[forks-url]: https://github.com/BabyfaceDeveloper/Bulldozer-Price-Prediction/network/members
 
 [stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
+[stars-url]: https://github.com/BabyfaceDeveloper/Bulldozer-Price-Prediction/stargazers
 
 [issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
+[issues-url]: https://github.com/BabyfaceDeveloper/Bulldozer-Price-Prediction/issues
 
 [license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
+[license-url]: https://github.com/BabyfaceDeveloper/Bulldozer-Price-Prediction/blob/master/LICENSE.txt
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
