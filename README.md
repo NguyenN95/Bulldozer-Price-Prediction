@@ -13,7 +13,7 @@
   <p align="center">
     Predicts sale price of bulldozers given their characteristics
     <br />
-    <a href="https://github.com/BabyfaceDeveloper/Bulldozer-Price-Prediction"><strong>Explore the notebook »</strong></a>
+    <a href="https://github.com/BabyfaceDeveloper/Bulldozer-Price-Prediction/blob/main/solution.ipynb"><strong>Explore the notebook »</strong></a>
     <br />
     <br />
   </p>
